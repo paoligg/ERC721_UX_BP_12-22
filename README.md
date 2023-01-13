@@ -8,9 +8,10 @@ This project allows differents use on different contracts.
 You can find every information on this repo : https://github.com/AymericNoel/erc721-ux
 
 To run the project, redirect your path in the folder : 
-
+```Bash
 $cd Ux_project_BP
-
+```
 and then 
-
+```Bash
 $npm run dev 
+```
